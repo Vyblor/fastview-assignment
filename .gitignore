@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.claude/
+.taste-skill/
+wireframe/
+.DS_Store
+*.log
+*.tsbuildinfo
